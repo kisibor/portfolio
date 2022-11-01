@@ -1,8 +1,7 @@
-# Portfolio
 Data visualizations by Kele Isibor
 
 # About Me
-My name is Kele Isibor and I study public policy and mangment at Carnegie Mellon's Heinz College. 
+My name is Kele Isibor and I study public policy and management at Carnegie Mellon University’s HeInz College. In addition to public policy, I am interested in using data analytics to strengthen civil society groups. I think data visualizations are an incredible tool for telling stories and making data accessible to diverse audiences. Hence, I continue improve and increase my use of it in professional and personal projects.  
 
 # What I Hope to Learn
 
