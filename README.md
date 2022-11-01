@@ -1,2 +1,2 @@
 # portfolio
-Data visualizations created by Kele Isibor
+Data visualizations by Kele Isibor
