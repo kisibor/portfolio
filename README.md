@@ -7,6 +7,6 @@ My name is Kele Isibor and I study public policy and mangment at Carnegie Mellon
 # What I Hope to Learn
 
 # Portfolio 
-## Visualizing government debt
+## Visualizing Government Debt
 ## Critique by Design
 ## Final Project
