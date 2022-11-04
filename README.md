@@ -6,6 +6,6 @@ My name is Kele Isibor and I study public policy and management at Carnegie Mell
 # What I Hope to Learn
 
 # Portfolio 
-## Visualizing Government Debt(/dataviz2.md)
+## [Visualizing Government Debt](/dataviz2.md)
 ## Critique by Design
 ## Final Project
