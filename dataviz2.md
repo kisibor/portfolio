@@ -4,3 +4,7 @@
 # Government Debt Line Charts
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11696679"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+## Ten Years of United States, Mexico & Canada Debt 
+<div class="flourish-embed" data-src="story/1735520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
