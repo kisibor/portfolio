@@ -1,9 +1,9 @@
-# Original data visualization
+# Original Data Visualization
 ![Alt text](IMG_6958D911A458-1.jpeg)
 
 The [original visualization](http://evict-response.earthtime.org/) is by Anne Wright, a Carnegie Mellon University researcher. The chart appears to be part of CMU Create Lab’s [eviction response initiative](https://www.cmu.edu/news/stories/archives/2020/november/earthtime-evictions.html). However, it is likely the visual was made for a separate presentation aimed at a population with advanced education. Overall, it is an informative chart for individuals with housing and evictions industry knowledge. I chose to redesign it to be more accessible to the general public. 
 
-# First redesigns 
+# First Redesigns 
 ![Alt text](IMG-3978.jpg)
 
 As a part of my redesign process, I began by evaluating the chart’s effectiveness according to Stephen Few’s “Data Visualization Effectiveness Profile”. The major issues were with perceptibility because the abbreviations used are difficult for the uninitiated to understand. Additionally, the many colors and redundant use of lines dampen the beauty of the chart. These problems prompted me to reduce the use of the same type of representations (i.e., solid lines with Xs for the data points). The first redesigns changed the “hearings each week” variable from the solid green line in the original to a blue dashed line with boxes for data points. I also tried removing the dashed line altogether to create some distinction between the representation of variables. 
@@ -13,7 +13,7 @@ I asked a graduate student in her early twenties to explain what was happening i
 
 I also spoke to a pair of graduate students in their twenties, and they had similar comments about the chart: “ what does MDJ and “est number short variable mean?” They also suggested moving the legend closer to the chart. All user research subjects at this point appreciated the use of gray on past years' data. 
 
-# Second redesigns
+# Second Redesigns
 <div class="flourish-embed flourish-chart" data-src="visualisation/11843702"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/11832339"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -24,7 +24,7 @@ I showed both charts to another pair of graduate students and they liked the cha
 
 Finally, I asked one more graduate student her thoughts on the two graphs. She mentioned that it would be more effective to show the “shortfall” variable as a line and the rest as bars since the “shortfall” is an analysis and the other variables are raw data.
 
-# Final redesign
+# Final Redesign
 <div class="flourish-embed flourish-chart" data-src="visualisation/11845850"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 The final redesign incorporated the feedback from the last graduate student. Additionally, I removed the “hearing every week variable” to assist the usefulness of the chart by removing information that was not essential to the main point of the chart: the effect of the eviction moratoriums on evictions in 2020. 
