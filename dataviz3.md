@@ -5,7 +5,9 @@ The original visualization is by Anne Wright, a Carnegie Mellon University resea
 
 # First redesigns 
 ![Alt text](IMG-3978.jpg)
+
 As a part of my redesign process, I began by evaluating the chart’s effectiveness according to Stephen Few’s “Data Visualization Effectiveness Profile”. The major issues were with perceptibility because the abbreviations used are difficult for the uninitiated to understand. Additionally, the many colors and redundant use of lines dampen the beauty of the chart. These problems prompted me to reduce the use of the same type of representations (i.e., solid lines with Xs for the data points). The first redesigns changed the “hearings each week” variable from the solid green line in the original to a blue dashed line with boxes for data points. I also tried removing the dashed line altogether to create some distinction between the representation of variables. 
+
 # First User Research Feedback 
 I asked a graduate student in her early twenties to explain what was happening in my first redesign. She said she understood the sketch was showing how variables were changing over time but did not understand what some of the variables were, especially the “est number short variable”. Furthermore, she mentioned that the trends (increases and decreases) were easy to interpret and that it was clear the chart was about the count of evictions. After asking her about the intended audience, she said this chart could be helpful for a court clerk. 
 
