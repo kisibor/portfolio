@@ -1,5 +1,6 @@
 # Original data visualization
 ![Alt text](IMG_6958D911A458-1.jpeg)
+
 The original visualization is by Anne Wright, a Carnegie Mellon University researcher. The chart appears to be part of CMU Create Lab’s eviction response initiative. However, it is likely the visual was made for a separate presentation aimed at a population with advanced education. Overall, it is an informative chart for individuals with housing and evictions industry knowledge. I chose to redesign it to be more accessible to the general public. 
 
 # First redesigns 
