@@ -10,9 +10,9 @@ The City of Pittsburgh has seen a 10% decrease in its Black or African American 
     * Economic fragility: examining if Black residents concentrated in low paying jobs and Black unemployment rates from 2010 to 2020
     * Violent crimes: a breakdown of homicides and/or violent crimes by neighborhood demographics  
 4. Where do we go from here?
-    * policy reforms 
-    * more investment in Black neighborhoods 
-    * increase affordable housing 
+    * Policy reforms 
+    * More investment in Black neighborhoods 
+    * Increase affordable housing 
 # Story Arc
 ![Alt text](IMG-3997.jpg)
 
