@@ -41,7 +41,7 @@ The City of Pittsburgh has seen a 10% decrease in its Black or African American 
 ![Alt text](IMG-4001.jpg)
 ![Alt text](IMG-4002.jpg)
 
-# Method and medium 
+# Method and Medium 
 I plan to present my findings in Shorthand and Github. The GitHub page will be my formal findings in a report format. The Shorthand page will be a stylized display of my findings, which will include headers, descriptions, photos, charts, and maps. 
 
 
