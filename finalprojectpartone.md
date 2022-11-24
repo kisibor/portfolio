@@ -6,7 +6,7 @@ The City of Pittsburgh has seen a 10% decrease in its Black or African American 
 1. Background: Pittsburgh demographic data, a list of the minority majority or Black neighborhoods, and poverty status by race and ethnicity 
 2. The problem: 10% Decrease in Pittsburgh's Black population between 2010 and 2020
 3. The contributing factors 
-    * Housing: Analysis of gentrification patterns in Pittsburgh Black or majority minority neighborhoods. Also, comparing and contrasting housing loans given to majority minority neighborhoods and predominantly white neighborhoods
+    * Housing: analysis of gentrification patterns in Pittsburgh Black or majority minority neighborhoods. Also, comparing and contrasting housing loans given to majority minority neighborhoods and predominantly white neighborhoods
     * Economic fragility: examining if Black residents concentrated in low paying jobs and Black unemployment rates from 2010 to 2020
     * Violent crimes: a breakdown of homicides and/or violent crimes by neighborhood demographics  
 4. Where do we go from here?
