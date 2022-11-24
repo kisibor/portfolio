@@ -18,8 +18,7 @@ The City of Pittsburgh has seen a 10% decrease in its Black or African American 
     * more investment in Black neighborhoods 
     * increase affordable housing 
 # Story Arc
-IMG-3997.jpg
-
+![Alt text](IMG-3997.jpg)
 # User Stories 
 Students: As a college or graduate student, I want data analysis on Black population change in Pittsburgh for research and academic projects. 
 
@@ -39,11 +38,11 @@ The Pittsburgh Neighborhood Project’s Level of Need data contains information 
 
 # Sketches 
 
-IMG-3998.jpg
-IMG-3999.jpg
-IMG-4000.jpg
-IMG-4001.jpg
-IMG-4002.jpg
+![Alt text](IMG-3998.jpg)
+![Alt text](IMG-3999.jpg)
+![Alt text](IMG-4000.jpg)
+![Alt text](IMG-4001.jpg)
+![Alt text](IMG-4002.jpg)
 
 # Method and medium 
 I plan to present my findings in Shorthand and Github. The Github page will be my formal findings in a report format. The Shorthand page will be a stylized display of my findings, which will include headers, descriptions, photos, charts and maps. 
