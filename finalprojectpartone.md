@@ -6,13 +6,9 @@ The City of Pittsburgh has seen a 10% decrease in its Black or African American 
 1. Background: Pittsburgh demographic data, a list of the minority majority or Black neighborhoods, and poverty status by race and ethnicity 
 2. The problem: 10% Decrease in Pittsburgh's Black population between 2010 and 2020
 3. The contributing factors 
-    * Housing
-            * Analysis of gentrification patterns in Pittsburgh Black or majority minority neighborhoods 
-            * Comparing and contrasting housing loans given to majority minority neighborhoods and predominantly white neighborhoods
-    * Economic fragility 
-            * Occupation segregation - examining if Black residents concentrated in low paying jobs
-            * Black unemployment rates from 2010 to 2020
-     * Violent crimes - a breakdown of homicides and/or violent crimes by neighborhood demographics  
+    * Housing: Analysis of gentrification patterns in Pittsburgh Black or majority minority neighborhoods. Also, comparing and contrasting housing loans given to majority minority neighborhoods and predominantly white neighborhoods
+    * Economic fragility: examining if Black residents concentrated in low paying jobs and Black unemployment rates from 2010 to 2020
+    * Violent crimes: a breakdown of homicides and/or violent crimes by neighborhood demographics  
 4. Where do we go from here?
     * policy reforms 
     * more investment in Black neighborhoods 
@@ -29,7 +25,7 @@ Local Media:: As a journalist at a local media company I want data analysis on B
 
 # Data Sources 
 
-2010 and 2020 Pittsburgh Decennial Census data** This main dataset I’ll be using for the project and it includes variables on Black population change, violent crimes per capita, total unemployment, Black unemployment, median household income, gini index, median house value, median gross rent, and Black income below the poverty level in 2010 and 2020 for 67 Pittsburgh neighborhoods (not all 90 Pittsburgh neighborhoods were included because of missing data). I plan on using this data to conduct and show exploratory data analysis (EDA) to establish the context for the following sections of the project. This will likely include which neighborhoods have experienced the highest change (loss) in Black residents, average Black employment per neighborhood, changes in rent values during the period. Additionally, I will highlight how these neighborhoods rank on variables associated with economic fragility, housing, crime. For example, if the exploratory data analysis I show indicates that the Point Breeze North neighborhood had the highest change in Black residents from 2010 to 2020, I would visually compare that finiding to Black unemployment in that neighborhood. 
+2010 and 2020 Pittsburgh Decennial Census data This main dataset I’ll be using for the project and it includes variables on Black population change, violent crimes per capita, total unemployment, Black unemployment, median household income, gini index, median house value, median gross rent, and Black income below the poverty level in 2010 and 2020 for 67 Pittsburgh neighborhoods (not all 90 Pittsburgh neighborhoods were included because of missing data). I plan on using this data to conduct and show exploratory data analysis (EDA) to establish the context for the following sections of the project. This will likely include which neighborhoods have experienced the highest change (loss) in Black residents, average Black employment per neighborhood, changes in rent values during the period. Additionally, I will highlight how these neighborhoods rank on variables associated with economic fragility, housing, crime. For example, if the exploratory data analysis I show indicates that the Point Breeze North neighborhood had the highest change in Black residents from 2010 to 2020, I would visually compare that finiding to Black unemployment in that neighborhood. 
 
 The Pittsburgh Neighborhood Project’s Disadvantage Map data contains variables on percent Black and white, percent without internet access, single mother rate and disadvantage status for Pittsburgh neighborhoods. I plan on using this dataset to show that majority Black neighborhoods are often highly disadvantaged as determined by family poverty levels, shots fired, percent without access to a vehicle. The findings from these data will build on the insights from the main dataset. 
 
