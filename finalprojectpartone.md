@@ -15,12 +15,13 @@ The City of Pittsburgh has seen a 10% decrease in its Black or African American 
     * increase affordable housing 
 # Story Arc
 ![Alt text](IMG-3997.jpg)
+
 # User Stories 
-Students: As a college or graduate student, I want data analysis on Black population change in Pittsburgh for research and academic projects. 
+**Students**: As a college or graduate student, I want data analysis on Black population change in Pittsburgh for research and academic projects. 
 
-Non-profits : As the leader of a non-profit organization, I want data analysis on Black population change in Pittsburgh to establish a need or sense of urgency for the types of services my organization provides. 
+**Non-profits** : As the leader of a non-profit organization, I want data analysis on Black population change in Pittsburgh to establish a need or sense of urgency for the types of services my organization provides. 
 
-Local Media:: As a journalist at a local media company I want data analysis on Black population change in Pittsburgh to support my articles on community issues 
+**Local Media**: As a journalist at a local media company I want data analysis on Black population change in Pittsburgh to support my articles on community issues 
 
 
 # Data Sources 
