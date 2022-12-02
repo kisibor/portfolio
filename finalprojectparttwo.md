@@ -7,7 +7,7 @@
 # User Research Protocol 
 ## Target Audience and Outreach Strategy
 
-In part 1, I identified three user stories (students, nonprofits, local media). For the class presentation, I have decided to make students my target audience. As a result, interviewees had to be college or graduate students. Therefore,  when selecting participants to interview, I restricted my search to classmates and friends enrolled in higher education. 
+In [part 1](https://kisibor.github.io/portfolio/finalprojectpartone.html), I identified three user stories (students, nonprofits, local media). For the class presentation, I have decided to make students my target audience. As a result, interviewees had to be college or graduate students. Therefore,  when selecting participants to interview, I restricted my search to classmates and friends enrolled in higher education. 
 
 ## Interview script: 
 | Question                                                                                    | Goal (I asked the question to…)                                                  | Interviewee 1  Female, 20s-30s                                                                                                                                      | Interviewee 2 Female, 20s-30s                                                                                                        | Interviewee 3 Female, 20s-30s                                                                                |
