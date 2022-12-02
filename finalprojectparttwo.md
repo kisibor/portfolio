@@ -1,5 +1,5 @@
 # Wireframes 
-Black Population Decline in Pittsburgh (on Shorthand)
+[Black Population Decline in Pittsburgh (on Shorthand)](https://preview.shorthand.com/nio5qGkw7Ke63hXs)
 
 # Moodboard 
 ![Alt text](IMG_4082.jpg)
