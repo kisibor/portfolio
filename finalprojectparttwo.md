@@ -25,11 +25,11 @@ In [part 1](https://kisibor.github.io/portfolio/finalprojectpartone.html), I ide
 
 # Key findings 
 - Too many charts and too many words
-*Interviews familiar with class felt that I would not have enough time to present all chart 
+* Interviews familiar with class felt that I would not have enough time to present all chart 
 - Colors did not match the subject matter 
-*“[the color choices]  are bright for a somber topic”
+* “[the color choices] are bright for a somber topic”
 - No call to action
-*Interviews want to know what they could do to address the issue? 
+* Interviews want to know what they could do to address the issue? 
 
 # Prioritization Graph 
 ![alt text](IMG_4085.jpg)
