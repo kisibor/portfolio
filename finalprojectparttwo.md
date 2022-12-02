@@ -2,8 +2,7 @@
 Black Population Decline in Pittsburgh (on Shorthand)
 
 ## Moodboard 
-![alt text](PT Serif (2).png)
-
+![Alt text](PT Serif (2).png)
 
 ## User Research Protocol 
 # Target Audience and Outreach Strategy
