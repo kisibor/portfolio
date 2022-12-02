@@ -2,7 +2,7 @@
 Black Population Decline in Pittsburgh (on Shorthand)
 
 ## Moodboard 
-![Alt text](PT Serif (2).png)
+![Alt text](IMG_4082.jpg)
 
 ## User Research Protocol 
 # Target Audience and Outreach Strategy
@@ -32,7 +32,7 @@ In part 1, I identified three user stories (students, nonprofits, local media). 
 *Interviews want to know what they could do to address the issue? 
 
 ## Prioritization Graph 
-![alt text](Screen Shot 2022-12-01 at 8.01.32 PM.png)
+![alt text](IMG_4085.jpg)
 
 ## Next steps: Updates to the presentation
 1. Change the colors to more muted colors
