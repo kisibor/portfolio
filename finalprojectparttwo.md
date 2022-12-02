@@ -9,7 +9,7 @@
 
 In [part 1](https://kisibor.github.io/portfolio/finalprojectpartone.html), I identified three user stories (students, nonprofits, local media). For the class presentation, I have decided to make students my target audience. As a result, interviewees had to be college or graduate students. Therefore,  when selecting participants to interview, I restricted my search to classmates and friends enrolled in higher education. 
 
-## Interview script: 
+## Interview Script: 
 | Question                                                                                    | Goal (I asked the question to…)                                                  | Interviewee 1  Female, 20s-30s                                                                                                                                      | Interviewee 2 Female, 20s-30s                                                                                                        | Interviewee 3 Female, 20s-30s                                                                                |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | What stood out to you in this presentation?                                                 | Understand the salient aspect of the presentation from the audience perspective  | The disparities in poverty chart                                                                                                                                    | All the different visuals talking about causes and seeing how widespread the issues is                                               | It’s clear that things are interconnected [and there’s a] clear story regardless  of variable                |
@@ -23,7 +23,7 @@ In [part 1](https://kisibor.github.io/portfolio/finalprojectpartone.html), I ide
 | Other comments                                                                              |                                                                                  |                                                                                                                                                                     | **Too many graphs for the final [maybe select ] which contributes [the most to the issue]**                                          | Colors for white  and black [and keep it consistent throughout]                                              |
 
 
-# Key findings 
+# Key Findings 
 - Too many charts and too many words
   * Interviews familiar with class felt that I would not have enough time to present all chart 
 - Colors did not match the subject matter 
@@ -34,7 +34,7 @@ In [part 1](https://kisibor.github.io/portfolio/finalprojectpartone.html), I ide
 # Prioritization Graph 
 ![alt text](IMG_4085.jpg)
 
-# Next steps: Updates to the presentation
+# Next steps: Updates to the Presentation
 1. Change the colors to more muted colors
 2. Streamline the text and use a large font. 
 3. Select only 3 or 4 charts to display 
