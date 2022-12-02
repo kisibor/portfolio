@@ -4,8 +4,8 @@ Black Population Decline in Pittsburgh (on Shorthand)
 ## Moodboard 
 ![Alt text](IMG_4082.jpg)
 
-## User Research Protocol 
-# Target Audience and Outreach Strategy
+# User Research Protocol 
+## Target Audience and Outreach Strategy
 
 In part 1, I identified three user stories (students, nonprofits, local media). For the class presentation, I have decided to make students my target audience. As a result, interviewees had to be college or graduate students. Therefore,  when selecting participants to interview, I restricted my search to classmates and friends enrolled in higher education. 
 
