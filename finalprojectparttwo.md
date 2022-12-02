@@ -1,6 +1,9 @@
 ## Wireframes 
 Black Population Decline in Pittsburgh (on Shorthand)
 
+## Moodboard 
+![alt text](PT Serif (2).png)
+
 
 ## User Research Protocol 
 # Target Audience and Outreach Strategy
@@ -29,9 +32,11 @@ In part 1, I identified three user stories (students, nonprofits, local media). 
 - No call to action
 *Interviews want to know what they could do to address the issue? 
 
+## Prioritization Graph 
+![alt text](Screen Shot 2022-12-01 at 8.01.32 PM.png)
+
 ## Next steps: Updates to the presentation
 1. Change the colors to more muted colors
 2. Streamline the text and use a large font. 
 3. Select only 3 or 4 charts to display 
 4. End with a clear call to action
-
