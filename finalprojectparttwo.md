@@ -30,7 +30,7 @@ In [part 1](https://kisibor.github.io/portfolio/finalprojectpartone.html), I ide
 - Colors did not match the subject matter 
   * “[the color choices] are bright for a somber topic”
 - No call to action
-  * Interviews want to know what they could do to address the issue? 
+  * Interviewees want to know what they could do to address the issue? 
 
 # Prioritization Graph 
 ![alt text](IMG_4085.jpg)
