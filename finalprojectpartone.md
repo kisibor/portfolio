@@ -1,3 +1,11 @@
+# Navigation
+
+[Part I](https://kisibor.github.io/portfolio/finalprojectpartone.html)
+
+[Part II](https://kisibor.github.io/portfolio/finalprojectparttwo.html)
+
+[Part III](https://kisibor.github.io/portfolio/finalprojectpartthree.html)
+
 # Project Overview 
 
 The City of Pittsburgh has seen a 10% decrease in its Black or African American population in the past decade. The Black exodus the city is experiencing is in line with a report that found Pittsburgh to be one of the worst cities (of its size) for Black employment. This project will explore the role housing, economic fragility, and violent crimes play in the issue. The housing data I am interested in showing are signs of gentrification and evictions by majority Black Pittsburgh neighborhoods. As for economic fragility, I plan on showing occupational segregation, poverty rates, lending patterns by race, and majority Black Pittsburgh neighborhoods. Lastly, the data on violent crimes will depict racial disparities in the city’s homicide rates. I chose these indicators because they are common push or pull factors in outmigration studies. In the end, I will consider this project successful if it can help members of the general public state three reasons why Black residents could be leaving Pittsburgh at an alarming rate. 
