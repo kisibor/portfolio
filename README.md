@@ -8,3 +8,4 @@ My name is Kele Isibor and I study public policy and management at Carnegie Mell
 ## [Critique by Design](/dataviz3.md)
 ## [Final Project I](/finalprojectpartone.md)
 ## [Final Project II](/finalprojectparttwo.md)
+## [Final Project III] (/finalprojectpartthree.md)
