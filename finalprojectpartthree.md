@@ -6,8 +6,8 @@
 
 [Part III](https://kisibor.github.io/portfolio/finalprojectpartthree.html)
 
-# [Final Data Story: Black Population Decline in Pittsburgh](https://carnegiemellon.shorthandstories.com/cd013c9a-82e9-4402-b924-532c307025a6/index.html)
 
+# [Final Data Story: Black Population Decline in Pittsburgh](https://carnegiemellon.shorthandstories.com/cd013c9a-82e9-4402-b924-532c307025a6/index.html)
 
 # Writeup
 
