@@ -1,3 +1,11 @@
+# Navigation
+
+[Part I](https://kisibor.github.io/portfolio/finalprojectpartone.html)
+
+[Part II](https://kisibor.github.io/portfolio/finalprojectparttwo.html)
+
+[Part III](https://kisibor.github.io/portfolio/finalprojectpartthree.html)
+
 # Wireframes 
 [Black Population Decline in Pittsburgh (on Shorthand)](https://preview.shorthand.com/nio5qGkw7Ke63hXs)
 
