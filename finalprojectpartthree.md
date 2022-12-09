@@ -4,7 +4,7 @@
 
 [Part II](https://kisibor.github.io/portfolio/finalprojectparttwo.html)
 
-Part III
+[Part III](https://kisibor.github.io/portfolio/finalprojectpartthree.html)
 
 # Writeup
 
